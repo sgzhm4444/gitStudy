@@ -4,4 +4,5 @@ var b = 456;
 
 var c =333;
 
-var str = "old"
+
+var str = "new";
