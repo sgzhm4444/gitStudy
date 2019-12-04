@@ -11,3 +11,4 @@ var $1 = document.appendChild.bind(document);
 
 
 aaa = 1323;
+aaa = 1323;
